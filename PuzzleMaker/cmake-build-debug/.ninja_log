@@ -1,7 +1,0 @@
-# ninja log v5
-5	4223	7019868024940930	CMakeFiles/PuzzleMaker.dir/main.cpp.obj	1c737b9de039c22c
-2	422	7023680552078637	build.ninja	7fe39a964206df42
-867	1397	7022466951298770	PuzzleMaker.exe	243efa788ff54d4f
-11	4556	7019868028271995	CMakeFiles/PuzzleMaker.dir/SDL_Plotter.cpp.obj	51e52d97b4b8fab9
-0	28	0	clean	f528cbea4f0ae9eb
-2	867	7022466946074451	CMakeFiles/PuzzleMaker.dir/main2.cpp.obj	40e5964ec737a55d
