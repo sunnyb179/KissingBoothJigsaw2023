@@ -1,0 +1,3 @@
+C:/Users/Salma Hany/CLionProjects/PuzzleMaker/cmake-build-debug/CMakeFiles/PuzzleMaker.dir
+C:/Users/Salma Hany/CLionProjects/PuzzleMaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Salma Hany/CLionProjects/PuzzleMaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
